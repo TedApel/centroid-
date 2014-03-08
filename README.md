@@ -9,6 +9,6 @@ centroid~ computes the spectral centroid from fft~ input and outputs a message f
 
 ## Versions ##
 
-1.0 First release version. 1998.
-1.1 Mach-O re-compile 2007.
-1.2 64bit Max 6.1 update. 2014.
+* 1.0 - First release version. 1998.
+* 1.1 - Mach-O re-compile 2007.
+* 1.2 - 64bit Max 6.1 update. 2014.
